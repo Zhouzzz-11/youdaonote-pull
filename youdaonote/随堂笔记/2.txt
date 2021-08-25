@@ -1,0 +1,16 @@
+安装DNS
+
+1.挂盘
+2.固定ip
+3.控制面板-添加删除Windows组建-网络服务-DNS
+DNS设置
+1.建立正向区域
+2.设置主机
+
+验证
+1.将物理机 DNS服务器指向虚拟机
+2.dos命令nslookup 验证
+
+
+ipconfig  
+ping
